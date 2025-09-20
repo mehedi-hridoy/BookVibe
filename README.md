@@ -1,5 +1,9 @@
 # Book Vibe — Modern React Bookshelf App
 
+## 🔴 Live Demo
+
+https://shimmering-cannoli-0089c9.netlify.app/
+
 A polished, mobile‑first React app built with Vite that helps users browse books, view details, and manage personal lists (Read and Wishlist) with a clean UI, subtle motion, and thoughtful UX.
 
 ## ✨ Highlights
@@ -9,6 +13,18 @@ A polished, mobile‑first React app built with Vite that helps users browse boo
 - Friendly toasts for feedback on actions (add/read/remove)
 - Insights page with modern charts (pages, ratings, publishing years)
 - Minimal, cute 404 with a playful message and Home routing
+
+## 📸 Screenshots
+
+<img src="public/1.png" alt="Hero and Navbar" width="100%" />
+
+<img src="public/2.png" alt="Books Grid and Cards" width="100%" />
+
+<img src="public/3.png" alt="Book Detail Page" width="100%" />
+
+<img src="public/4.png" alt="Listed Books (Read/Wishlist)" width="100%" />
+
+<img src="public/5.png" alt="Pages & Charts" width="100%" />
 
 ## 🧰 Tech Stack
 - React + Vite
