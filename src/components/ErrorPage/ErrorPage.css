@@ -1,0 +1,56 @@
+/* Simple Error Page Styles */
+.error-page {
+    min-height: 100vh;
+    background: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+}
+
+.error-content {
+    text-align: center;
+    max-width: 500px;
+}
+
+.error-title {
+    font-size: 4rem;
+    font-weight: bold;
+    color: #333;
+    margin: 0 0 2rem 0;
+}
+
+.error-image-container {
+    margin-bottom: 2rem;
+}
+
+.error-image {
+    max-width: 100%;
+    height: auto;
+}
+
+.home-button {
+    background: #333;
+    color: white;
+    border: none;
+    padding: 12px 24px;
+    font-size: 1rem;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.home-button:hover {
+    background: #555;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .error-title {
+        font-size: 4rem;
+    }
+    
+    .error-page {
+        padding: 1rem;
+    }
+}
